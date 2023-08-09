@@ -1,6 +1,6 @@
 # Creating-AI-with-LLM
 
-Establish a Question-Answer System using the Large Language Model (LLM) using the database Tripadvisor Hotel Review
+Establish a Question-Answer System using the Large Language Model (LLM).
 
 # Objective
 
